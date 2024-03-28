@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1>¡Hola! Soy Yassine Bouhaik <img src="src/Hi.gif" height="30"></h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinebhk)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yassinebhk&label=Visitas+al+perfil"></p>
 
 <a href="https://github.com/yassinebhk">
